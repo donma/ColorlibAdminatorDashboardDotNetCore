@@ -5,6 +5,7 @@
 如果看完後，你不喜歡我的佈局方式，您可以透過下方原始的資料自己重新改寫 :)
 
 
+
 A template from the internet . I re-cook to .Net Core 3.1 and add Layout .
 
 You can give me a STAR if you think it's useful. :)
@@ -14,5 +15,7 @@ If you don't like the layout I did , you can  get pure source code from the belo
 Source : https://github.com/puikinsh/Adminator-admin-dashboard
 
 Demo : https://colorlib.com/polygon/adminator/index.html
+
+Reference : https://github.com/puikinsh/Adminator-admin-dashboard/issues/81
 
 ![alt SampleResult](https://github.com/donma/DashioTemplateCore/blob/master/dashino_screenshot.jpg?raw=true)
