@@ -18,4 +18,6 @@ Demo : https://colorlib.com/polygon/adminator/index.html
 
 Reference : https://github.com/puikinsh/Adminator-admin-dashboard/issues/81
 
-![alt SampleResult](https://github.com/donma/DashioTemplateCore/blob/master/dashino_screenshot.jpg?raw=true)
+![alt SampleResult](https://github.com/donma/ColorlibAdminatorDashboardDotNetCore/blob/master/snap1597132244.jpg?raw=true)
+
+![alt SampleSignin](https://github.com/donma/ColorlibAdminatorDashboardDotNetCore/blob/master/snap1597132262.jpg?raw=true)
