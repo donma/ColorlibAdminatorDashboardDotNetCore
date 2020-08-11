@@ -8,9 +8,9 @@
 
 A template from the internet . I re-cook to .Net Core 3.1 and add Layout .
 
-You can give me a STAR if you think it's useful. :)
+Could you give me a STAR if you think it's useful. :)
 
-If you don't like the layout I did , you can  get pure source code from the below link.
+If you don't like the layout I did , you can  get pure source code from the below links.
 
 Source : https://github.com/puikinsh/Adminator-admin-dashboard
 
